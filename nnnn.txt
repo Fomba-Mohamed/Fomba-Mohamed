@@ -1,0 +1,3 @@
+Name 	Grades
+Fomba	60
+john	75
