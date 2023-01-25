@@ -1,0 +1,3 @@
+Food		Price
+Cassava		23
+Rice		45
